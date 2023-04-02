@@ -1,0 +1,27 @@
+body{
+    background-color:#DDFFBB;
+}
+hr{
+    border-style:none;
+    
+    height:2px;
+    width:30%;
+    border-top-style:dotted;
+    border-width:25px;
+    border-color:grey;
+}
+h1{
+    color:#245953;
+}
+h3{
+    color:#245953;
+}
+.panda{
+    background-color:white;
+}
+#heading{
+    color:blue;
+}
+img:hover{
+    background-color: gold;
+}
